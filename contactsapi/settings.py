@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'authentication',
     'contacts',
     'drf_yasg',
-    'corheaders'
+    'corsheaders'
 
 ]
 
